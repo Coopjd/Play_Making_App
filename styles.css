@@ -1,3 +1,8 @@
 body {
-    background-color: darkorange;
+    background-color: rgb(145, 239, 45);
+}
+
+.options {
+    flex: auto;
+    flex-direction: column;
 }
